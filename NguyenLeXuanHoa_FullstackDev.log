@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  13 DEC 2025 14:36
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  17 DEC 2025 01:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -601,45 +601,62 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 (C:\Program Files\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 29.
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+)
+\Gin@req@height=\dimen179
+\Gin@req@width=\dimen180
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
 
 (NguyenLeXuanHoa_FullstackDev.aux)
 \openout1 = `NguyenLeXuanHoa_FullstackDev.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 32.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 32.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 32.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/bx/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/bx/n on input line 37.
 
 Package fontspec Info: 
 (fontspec)             Font family 'latinmodern-math.otf(0)' created for font
@@ -678,15 +695,15 @@ Style=MathScript},{Size=-6.57,Font=latinmodern-math.otf,Style=MathScriptScript}
 "
 
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 32.
+(Font)              `operators' in the math version `normal' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 32.
+ line 37.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 32.
+(Font)              `operators' in the math version `bold' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 32.
+t line 37.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 1.0001.
@@ -739,15 +756,15 @@ language=dflt;+ssty=1;"
 uage=dflt;"
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 32.
+(Font)              `symbols' in the math version `normal' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/cmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 32.
+t line 37.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 32.
+(Font)              `symbols' in the math version `bold' on input line 37.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 32.
+t line 37.
 
 Package fontspec Info: 
 (fontspec)             latinmodern-math scale = 0.9999.
@@ -795,16 +812,16 @@ uage=dflt;"
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
 (Font)              `largesymbols' in the math version `normal' on input line 3
-2.
+7.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 32.
+t line 37.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 32.
+(Font)              `largesymbols' in the math version `bold' on input line 37.
 
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 32.
+t line 37.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -840,30 +857,56 @@ t line 32.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 32.
+Package hyperref Info: Link coloring ON on input line 37.
 (NguyenLeXuanHoa_FullstackDev.out) (NguyenLeXuanHoa_FullstackDev.out)
 \@outlinefile=\write3
 \openout3 = `NguyenLeXuanHoa_FullstackDev.out'.
 
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
  [1
 
 ]
-[2] (NguyenLeXuanHoa_FullstackDev.aux)
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+
+[2]
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+ [3] (NguyenLeXuanHoa_FullstackDev.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `NguyenLeXuanHoa_FullstackDev.out' has not ch
 anged.
-(rerunfilecheck)             Checksum: 47776B3168BEEAE9C7766D5AA9767559;688.
+(rerunfilecheck)             Checksum: CB8F3A87E435C89CBA31E78968D8D626;678.
  ) 
 Here is how much of TeX's memory you used:
- 16246 strings out of 402986
- 292465 string characters out of 5452849
- 875209 words of memory out of 5000000
- 44846 multiletter control sequences out of 15000+600000
+ 16536 strings out of 402986
+ 296636 string characters out of 5452849
+ 880455 words of memory out of 5000000
+ 45122 multiletter control sequences out of 15000+600000
  628397 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,5n,107p,420b,452s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,5n,107p,441b,574s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on NguyenLeXuanHoa_FullstackDev.pdf (2 pages).
+Output written on NguyenLeXuanHoa_FullstackDev.pdf (3 pages).
