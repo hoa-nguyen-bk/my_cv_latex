@@ -22,7 +22,6 @@ From WeCamp, I expect what self-learning cannot provide:
 
 - **Structured learning** of Java Spring Boot and Angular
 - **Real mentorship** from NAB experts
-- **Hands-on experience** with banking systems
 
 My goal is clear: Master enterprise development. Qualify for being a Software Engineer. Then grow into a Solutions Architect and a Project Manager who builds systems for millions.
 
