@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  23 JUN 2026 18:57
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  26 AUG 2026 18:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -874,6 +874,14 @@ File: ./img/link_icon.png Graphic file (type bmp)
 <./img/link_icon.png>
 File: ./img/link_icon.png Graphic file (type bmp)
 <./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
  [1
 
 ]
@@ -886,38 +894,22 @@ File: ./img/link_icon.png Graphic file (type bmp)
 File: ./img/link_icon.png Graphic file (type bmp)
 <./img/link_icon.png>
 
-[2]
-File: ./img/link_icon.png Graphic file (type bmp)
-<./img/link_icon.png>
-File: ./img/link_icon.png Graphic file (type bmp)
-<./img/link_icon.png>
-File: ./img/link_icon.png Graphic file (type bmp)
-<./img/link_icon.png>
-File: ./img/link_icon.png Graphic file (type bmp)
-<./img/link_icon.png>
-File: ./img/link_icon.png Graphic file (type bmp)
-<./img/link_icon.png>
-
-Underfull \hbox (badness 10000) in paragraph at lines 223--228
-
- []
-
-[3] (NguyenLeXuanHoa_FullstackDev.aux)
+[2] (NguyenLeXuanHoa_FullstackDev.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `NguyenLeXuanHoa_FullstackDev.out' has not ch
 anged.
-(rerunfilecheck)             Checksum: 1867592EF5F51FCDC537B3734237B4EC;697.
+(rerunfilecheck)             Checksum: 1E5655756989BDF707C4A39486F91368;312.
  ) 
 Here is how much of TeX's memory you used:
  16555 strings out of 402986
  297075 string characters out of 5452849
- 883455 words of memory out of 5000000
+ 885455 words of memory out of 5000000
  45138 multiletter control sequences out of 15000+600000
  628397 words of font info for 52 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 86i,5n,107p,468b,568s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 86i,5n,107p,476b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on NguyenLeXuanHoa_FullstackDev.pdf (3 pages).
+Output written on NguyenLeXuanHoa_FullstackDev.pdf (2 pages).
