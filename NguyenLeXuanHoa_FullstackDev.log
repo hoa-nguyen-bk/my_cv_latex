@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  26 AUG 2026 20:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  28 OCT 2026 17:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -894,6 +894,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
 File: ./img/link_icon.png Graphic file (type bmp)
 <./img/link_icon.png>
+File: ./img/link_icon.png Graphic file (type bmp)
+<./img/link_icon.png>
 [2] [3] (NguyenLeXuanHoa_FullstackDev.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -901,7 +903,7 @@ L3 programming layer <2025-11-06>
  ***********
 Package rerunfilecheck Info: File `NguyenLeXuanHoa_FullstackDev.out' has not ch
 anged.
-(rerunfilecheck)             Checksum: 3155E171F91965773A0C08A67CBE9DFC;907.
+(rerunfilecheck)             Checksum: 0086A88921D9FE608C94CFEA1B0CCE8C;780.
  ) 
 Here is how much of TeX's memory you used:
  16555 strings out of 402986
