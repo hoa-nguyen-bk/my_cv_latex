@@ -83,3 +83,7 @@ SDLC is not optional. It's our professional responsibility. It's what separates 
 <!-- **Remember: Thank → Promise → Action** -->
 
 NAB WeCamp represents more than training—it's my launchpad for innovation. I bring passion, proven track record, and relentless commitment to growth. I'm ready to learn, to contribute, and to help build a more inclusive tech industry. Thank you for this opportunity.
+
+one with the solve skill, through a lot of challange problem during the working time, we received the highest score of 9,5 from the defense committee, 
+Beside the final thesis, in my working experience, I face to a lot of other challenge like bài toán đặt trùng ghế
+Béside, I have to face a lot of challenge, I have to face to a lot 
