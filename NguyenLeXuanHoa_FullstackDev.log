@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  11 NOV 2026 16:15
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.4) (preloaded format=xelatex 2025.12.13)  16 NOV 2026 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -898,16 +898,9 @@ File: ./img/link_icon.png Graphic file (type bmp)
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-11-06>
  ***********
-
-
-Package rerunfilecheck Warning: File `NguyenLeXuanHoa_FullstackDev.out' has cha
-nged.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `NguyenLeXuanHoa_FullstackDev.out':
-(rerunfilecheck)             Before: 0714325723F1F8FB321DF18EA851F10F;550
-(rerunfilecheck)             After:  DFD1C4DC60985F40A3AE100C2B60D24B;486.
+Package rerunfilecheck Info: File `NguyenLeXuanHoa_FullstackDev.out' has not ch
+anged.
+(rerunfilecheck)             Checksum: DFD1C4DC60985F40A3AE100C2B60D24B;486.
  ) 
 Here is how much of TeX's memory you used:
  16555 strings out of 402986
